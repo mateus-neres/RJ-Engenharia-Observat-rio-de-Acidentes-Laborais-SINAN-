@@ -1,0 +1,13 @@
+name: observatorio_drt
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - geopandas
+  - streamlit
+  - plotly
+  - seaborn
+  - matplotlib

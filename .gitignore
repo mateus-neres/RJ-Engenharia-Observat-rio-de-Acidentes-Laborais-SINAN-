@@ -1,0 +1,12 @@
+*venv
+*.rar
+*.zip
+*.csv
+*.parquet
+*.pyc
+*.cpg
+*.dbf
+*.prj
+*.qix
+*.shp
+*.shx

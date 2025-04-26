@@ -1,0 +1,15 @@
+pandas
+geopandas
+folium
+numpy
+dash
+streamlit
+matplotlib
+streamlit-folium
+plotly
+seaborn
+dash-bootstrap-components
+cffi>=1.17.0
+tqdm>=4.64.1
+pysus
+numpy==1.24.3
